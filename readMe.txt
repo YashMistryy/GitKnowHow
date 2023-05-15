@@ -1,0 +1,1 @@
+Hello this will be the guide for all of Git I'll need throughout the course and this will be fun
